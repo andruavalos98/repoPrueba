@@ -9,15 +9,11 @@ package prueba;
  *
  * @author andru
  */
-public class Prueba {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-    }
+public class Pajaro {
     
-  
+    String nombre;
+    int edad;
+    float peso;
+    String raza;
     
 }
